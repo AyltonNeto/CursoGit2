@@ -10,3 +10,5 @@ Beleza?
 Vamos fazer mais alterações para a nova versão
 
 Enviando a funcionalidade A
+
+Enviando a funcionalidade B
