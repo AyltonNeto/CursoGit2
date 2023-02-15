@@ -1,3 +1,5 @@
 Testando o git
 
 Outra vez.
+
+Vamos + Vamos = Vamos²
